@@ -1,3 +1,7 @@
+/*
+	@author Abhinav	
+	A class representing a single node
+*/
 class Node
 {
 	int data;
